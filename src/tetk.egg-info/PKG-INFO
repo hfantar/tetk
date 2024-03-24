@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: tetk
+Version: 0.0.1
+Summary: A small example package
+Author-email: Technica Engineering GmbH <houssem.fantar@technica-engineering.de>
+Project-URL: Homepage, https://github.com/hfantar/tetk
+Project-URL: Issues, https://github.com/hfantar/tetk/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# tetk
+Technica Engineering Toolkit

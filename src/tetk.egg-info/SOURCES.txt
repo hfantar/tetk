@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+src/tetk/__init__.py
+src/tetk/example.py
+src/tetk.egg-info/PKG-INFO
+src/tetk.egg-info/SOURCES.txt
+src/tetk.egg-info/dependency_links.txt
+src/tetk.egg-info/top_level.txt
+tests/test_tetk.py
